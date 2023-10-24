@@ -1,3 +1,3 @@
-Hello world from me, I like watching Kick Butovsky
-I like coffee, Kotlin! 
+Hello world from Pavel. I like watching Kick Butovsky
+I like tea, Java! 
 
