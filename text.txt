@@ -1,3 +1,5 @@
 Hello world from me, I like watching Kick Butovsky
-I like coffee, Kotlin! 
+I live in Mogilev.
+I like coffee, Kotlin!
+I like TMS 
 
